@@ -1,0 +1,92 @@
+nav {
+    margin-top: 40px;
+
+}
+
+h1 {
+    margin-bottom: 100px;
+    font-size: 35px;
+}
+
+select {
+    width: 300PX;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.8);
+    margin-bottom: 20PX;
+}
+
+input {
+    margin-bottom: 30px;
+    width: 300px;
+    height: 20px;
+    padding-right: 40px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.8);
+    border-width: 1px;
+
+
+}
+
+form {
+    border: solid red;
+    border-width: 1px;
+    width: 800px;
+    background-color: skyblue;
+    border-radius: 40px;
+    border-color: skyblue;
+}
+
+.text-line {
+    padding-bottom: 9px;
+}
+
+.name {
+    margin-right: 25px;
+    margin-top: 20px;
+
+}
+
+.gender {
+    margin-right: 15px;
+}
+
+.password {
+    margin-right: 10px;
+}
+
+.email {
+    margin-right: 30px;
+}
+
+.depart {
+    margin-right: 0px;
+}
+
+.matricule {
+    margin-right: 25px;
+}
+
+.date {
+    margin-right: 30px;
+}
+
+span.main {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+nav hr {
+    background: black;
+
+}
+
+button.submit {
+    width: 120px;
+    height: 40px;
+    background-color: red;
+    border-width: 1px;
+    border-radius: 8px;
+    color: white;
+}
+
+/* input {
+    
+} */
